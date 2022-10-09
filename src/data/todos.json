@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {"id": 1, "title": "Eat Breakfast", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum corrupti minus quidem esse! Sit dolore ducimus eum ipsa assumenda molestias omnis. Neque exercitationem numquam dignissimos vel ipsam ea dolorem enim.", "status": 1, "created_at": "2022-10-04T10:30:58.030Z", "updated_at": "2022-10-04T10:30:58.030Z"},
+    {"id": 2, "title": "Go to the gym", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum corrupti minus quidem esse! Sit dolore ducimus eum ipsa assumenda molestias omnis. Neque exercitationem numquam dignissimos vel ipsam ea dolorem enim.", "status": 0, "created_at": "2022-10-04T10:30:58.030Z", "updated_at": "2022-10-04T10:30:58.030Z"},
+    {"id": 3, "title": "Start project codename \"Atlas\"", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum corrupti minus quidem esse! Sit dolore ducimus eum ipsa assumenda molestias omnis. Neque exercitationem numquam dignissimos vel ipsam ea dolorem enim.", "status": 0, "created_at": "2022-10-04T10:30:58.030Z", "updated_at": "2022-10-04T10:30:58.030Z"},
+    {"id": 4, "title": "Play game", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum corrupti minus quidem esse! Sit dolore ducimus eum ipsa assumenda molestias omnis. Neque exercitationem numquam dignissimos vel ipsam ea dolorem enim.", "status": 0, "created_at": "2022-10-04T10:30:58.030Z", "updated_at": "2022-10-04T10:30:58.030Z"},
+    {"id": 5, "title": "Go to sleep at 10PM", "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum corrupti minus quidem esse! Sit dolore ducimus eum ipsa assumenda molestias omnis. Neque exercitationem numquam dignissimos vel ipsam ea dolorem enim.", "status": 0, "created_at": "2022-10-04T10:30:58.030Z", "updated_at": "2022-10-04T10:30:58.030Z"}
+  ]
+}
+

@@ -1,0 +1,16 @@
+.bgComplete {
+  background-color: rgb(214, 247, 225);
+}
+
+.bgPending {
+  background-color: rgb(235, 194, 201);
+}
+
+.trans {
+  transition: 0.5s all cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+.fadeout {
+  transform: translateX(-100vw);
+  opacity: 0;
+}
